@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Engineer passionate about building scalable backend systems and high-performance full-stack applications. I recently completed my Software Engineering Internship at Myntra (AdTech - Monetisation), where I worked on large-scale distributed systems handling 100K+ requests per minute. I enjoy solving challenging algorithmic problems and building products that create real-world impact.
+I'm a Software Engineer passionate about building scalable backend systems and high-performance full-stack applications. I enjoy solving challenging algorithmic problems and building products that create real-world impact.
 
 - 🚀 Software Engineering Intern at **Myntra** (Monetisation - AdTech)
 - 🔭 Former Software Engineering Intern at **Cyble (YC W21)**
