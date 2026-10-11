@@ -71,6 +71,7 @@ Git, GitHub, Jira, Postman, REST APIs
 ## 🚀 Featured Projects
 
 ### 🎓 Grivax.gen
+
 AI-powered personalized learning platform built using **Next.js, TypeScript, Anthropic AI, Prisma, PostgreSQL, NextAuth**.
 
 - Generated personalized learning paths for **500+ users**
@@ -86,6 +87,16 @@ AI-powered personalized learning platform built using **Next.js, TypeScript, Ant
 
 ---
 
+## 📊 GitHub Contributions
+
+<p align="center">
+  <a href="https://github.com/burhanv14">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=burhanv14&theme=github-compact&hide_border=true&area=true" alt="Burhanuddin's GitHub Contribution Graph" width="100%" />
+  </a>
+</p>
+
+---
+
 ## 🏆 Achievements
 
 - 🏅 **LeetCode Knight** — Rating **1914** (Top 4%)
@@ -97,7 +108,6 @@ AI-powered personalized learning platform built using **Next.js, TypeScript, Ant
 
 ## 📫 Connect With Me
 
-📫 **Contact:** 
-📧 burhanuddin.vora@gmail.com 
-📱 +91 8153916526 
-🌐 [burhanuddin-vora.vercel.app](https://burhanuddin-vora.vercel.app/)
+📧 **Email:** [burhanuddin.vora@gmail.com](mailto:burhanuddin.vora@gmail.com)  
+📱 **Phone:** +91 8153916526  
+🌐 **Portfolio:** [burhanuddin-vora.vercel.app](https://burhanuddin-vora.vercel.app/)
