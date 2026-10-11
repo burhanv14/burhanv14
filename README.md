@@ -87,20 +87,6 @@ AI-powered personalized learning platform built using **Next.js, TypeScript, Ant
 
 ---
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <a href="https://github.com/burhanv14">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=burhanv14&theme=github-compact&hide_border=true&area=true"
-      alt="GitHub Contribution Graph"
-      width="100%"
-    />
-  </a>
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🏅 **LeetCode Knight** — Rating **1914** (Top 4%)
