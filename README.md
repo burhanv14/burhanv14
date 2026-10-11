@@ -91,7 +91,11 @@ AI-powered personalized learning platform built using **Next.js, TypeScript, Ant
 
 <p align="center">
   <a href="https://github.com/burhanv14">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=burhanv14&theme=github-compact&hide_border=true&area=true" alt="Burhanuddin's GitHub Contribution Graph" width="100%" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=burhanv14&theme=github-compact&hide_border=true&area=true"
+      alt="GitHub Contribution Graph"
+      width="100%"
+    />
   </a>
 </p>
 
