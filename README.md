@@ -66,26 +66,6 @@ Git, GitHub, Jira, Postman, REST APIs
 - Conducted **13+** DSA lab sessions for **90+ students/session**
 - Collaborated with faculty to modernize existing lab assignments
 
----
-
-## 🚀 Featured Projects
-
-### 🎓 Grivax.gen
-
-AI-powered personalized learning platform built using **Next.js, TypeScript, Anthropic AI, Prisma, PostgreSQL, NextAuth**.
-
-- Generated personalized learning paths for **500+ users**
-- Processed **10,000+** learning resources using AI
-- Improved course completion by **40%**
-- Secure authentication with NextAuth and reCAPTCHA
-
-### 🌐 LNMIIT Website
-
-- Built responsive frontend using React & Tailwind CSS
-- Implemented multilingual support with i18n
-- Managed **50+** nested routes and integrated dynamic JSON content
-
----
 
 ## 🏆 Achievements
 
